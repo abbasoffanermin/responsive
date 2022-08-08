@@ -1,0 +1,132 @@
+@media only screen and (max-width:414px) {
+    .container{
+        max-width: 330px;
+    }
+nav img{
+    width: 69px;
+    height: 26px;
+    margin-left: 4px;
+
+}
+
+header nav {
+    padding-top: 16px;
+}
+header nav ul {
+   
+    padding-top: 10px;
+}
+header nav ul li {
+    
+    margin-left: -21px;
+}
+
+header ul li a {
+    font-size: 9px;
+    line-height: 41px;
+  
+    padding: 3px 11px;
+}
+.active,
+header nav li a:hover {
+    margin: 10px;
+}    
+.header-body {
+    
+    margin-top: 80px;
+    font-size: 34px;
+
+}
+div button {
+
+   
+    border-radius: 6px;
+    border-bottom: 4px solid #c86a40;
+    margin: 33px;
+    padding: 29px 52px;
+  
+}
+.header h2 {
+    padding: 100px 100px 40px 66px;
+    line-height: 40px;
+    
+}
+.header p {
+    margin: 29px;
+    font-size: 28px;
+    letter-spacing: 3px;
+    
+}
+
+.section2 h2 {
+    padding: 77px 100px 30px 61px;
+    }
+
+    .section2 p {
+        font-size: 32px;}
+
+
+}
+@media only screen and (max-width:576px) {
+    .container{
+        max-width: 390px;
+    }
+nav img{
+    width: 75px;
+    height: 30px;
+    margin-left: 6px;
+
+}
+
+header nav {
+    padding-top: 19px;
+}
+header nav ul {
+   
+    padding-top: 15px;
+}
+header nav ul li {
+    
+    margin-left: -15px;
+}
+
+header ul li a {
+    font-size: 13px;
+    line-height: 45px;
+  
+    padding: 7px 15px;
+}
+.active,
+header nav li a:hover {
+    margin: 15px;
+}    
+.header-body {
+    
+    margin-top: 85px;
+    font-size: 39px;
+
+}
+div button {
+
+   
+    border-radius: 6px;
+    border-bottom: 4px solid #c86a40;
+    margin: 39px;
+    padding: 35px 59px;
+  
+}
+.header h2 {
+    padding: 100px 100px 40px 66px;
+    line-height: 40px;
+    
+}
+.header p {
+    margin: 29px;
+    font-size: 28px;
+    letter-spacing: 3px;
+    
+}
+.section2 h2 {
+    padding: 77px 100px 30px 61px;
+    }
+}
